@@ -1,0 +1,14 @@
+#first{
+    text-align: center;
+}
+#two{
+    text-align: center;
+}
+button{
+    background-color: rgb(172, 122, 172);
+    color: rgb(13, 13, 54);
+    border: 2px,solid palevioletred;
+}
+h1{
+    color: dodgerblue;
+}
